@@ -15,9 +15,9 @@ Hypetrigger Companion is designed for Windows 10 and has not been tested on any 
 
 * Change marker (OSD) position from the settings to meet your needs.
 
-* Installer includes a Hypetrigger config file and Tensorflow data.
+* Text to Regex conversion tool with Copy to Cliploard button.
 
-* Less than 100MB in size and uses only a small amount of memory.
+* Installer includes a Hypetrigger config file and Tensorflow data.
 
 * Option to run at Windows startup (can be enabled in settings).
 
