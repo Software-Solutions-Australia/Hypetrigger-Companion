@@ -37,7 +37,9 @@ Download from releases on Github: https://github.com/Software-Solutions-Australi
 
 [![](https://i.postimg.cc/HsjTFrzr/HTC-0-1-7.png)](https://postimg.cc/WhLRkbQV)
 
-3. Record your gameplay as you normally would. When you want to create an event for Hypetrigger to detect, press the assigned Trigger Key.
+3. Record your gameplay as you normally would. When you want to create an event for Hypetrigger to detect, press the assigned Trigger Key (Alt by default, you can change the assigned key).
+
+[![](https://i.postimg.cc/0NKTCm8s/alt.png)](https://postimg.cc/rdcZVD0n)
 
 4. After importing your recorded video into Hypetrigger, you will see a "Hypetrigger Companion (tensorflow beta)" config in the config dropdown list, select it and press the "Find Clips" button. You can speed up the process by disabling the OSD position triggers you don't need.
 
