@@ -35,7 +35,7 @@ Download from releases on Github: https://github.com/Software-Solutions-Australi
 
 2. Hypetrigger Companion will show as an icon in your task tray that looks similar to the Hypetrigger icon, you can right click this icon to configure the program.
 
-[![](https://i.postimg.cc/HsjTFrzr/HTC-0-1-7.png)](https://postimg.cc/WhLRkbQV)
+[![](https://i.postimg.cc/s2nygSVd/HTC-7.png)](https://postimg.cc/XZyt2rGQ)
 
 3. Record your gameplay as you normally would. When you want to create an event for Hypetrigger to detect, press the assigned Trigger Key (Alt by default, you can change the assigned key).
 
