@@ -4,6 +4,8 @@ Hypetrigger Companion will create a marker for Hypetrigger to detect when proces
 
 Hypetrigger Companion is designed for Windows 10 and has not been tested on any other versions of Windows.
 
+[![](https://i.postimg.cc/JnLxJWy8/HTC.png)](https://postimg.cc/mcm7fJNp)
+
 
 ## FEATURE HIGHLIGHTS:
 
