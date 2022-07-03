@@ -30,9 +30,17 @@ Download from releases on Github: https://github.com/Software-Solutions-Australi
 ## USAGE INSTRUCTIONS:
 
 1. Hypetrigger Companion will wait for you to press the assigned Trigger Key, when you press that key the Hypetrigger logo will appear on the screen for about 2 seconds, this is to give Hypetrigger something to detect when there is no text to detect.
+
+[![](https://i.postimg.cc/7YvytK5W/logo4.png)](https://postimg.cc/8sb3jBBR)
+
 2. Hypetrigger Companion will show as an icon in your task tray that looks similar to the Hypetrigger icon, you can right click this icon to configure the program.
+
+[![](https://i.postimg.cc/HsjTFrzr/HTC-0-1-7.png)](https://postimg.cc/WhLRkbQV)
+
 3. Record your gameplay as you normally would. When you want to create an event for Hypetrigger to detect, press the assigned Trigger Key.
+
 4. After importing your recorded video into Hypetrigger, you will see a "Hypetrigger Companion (tensorflow beta)" config in the config dropdown list, select it and press the "Find Clips" button. You can speed up the process by disabling the OSD position triggers you don't need.
+
 5. To exit Hypetrigger Companion and return the assigned Trigger Key to its original functionality right-click the Hypetrigger Companion icon in the task tray and select "Exit Hypetrigger Companion".
 This will immediately exit Hypetrigger Companion and return the assigned Trigger Key to its original functionality.
 
