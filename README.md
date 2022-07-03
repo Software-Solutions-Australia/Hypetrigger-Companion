@@ -13,7 +13,7 @@ Hypetrigger Companion is designed for Windows 10 and has not been tested on any 
 
 * Assign any key to use as a trigger key using the task tray menu.
 
-* Change marker (OSD) position to meet your needs from the settings.
+* Change marker (OSD) position from the settings to meet your needs.
 
 * Installer includes a Hypetrigger config file and Tensorflow data.
 
