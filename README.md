@@ -2,24 +2,16 @@
 
 Hypetrigger Companion will create a marker for Hypetrigger to detect when processing, this is useful for games that do not provide any text for Hypetrigger to detect.
 
-It will only work while you are playing a game and recording as the marker will be visible in the recording for Hypetrigger to detect.
-
-This program by default will set the Alt key as a Trigger Key while Hypetrigger Companion is running.
-
-It will appear as an icon in the task tray which has a menu when you right-click on the icon.
-
-You can set another key to be the Trigger Key by right clicking the Hypetrigger Companion icon in the Windows task tray (bottom right of your screen), hover your mouse over the "Assign Trigger Key" menu, from there you can select various keys to use as your Trigger Key.
-
 Hypetrigger Companion is designed for Windows 10 and has not been tested on any other versions of Windows.
-
-You can exit Hypetrigger Companion and set the assigned Trigger Key back to its original functionality by right clicking on the Hypetrigger Companion icon in the task tray and selecting the "Exit Hypetrigger Companion" option.
 
 
 ## DOWNLOAD INSTRUCTIONS:
+
 Download from releases on Github: https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/releases
 
 
 ## USAGE INSTRUCTIONS:
+
 1. Hypetrigger Companion will wait for you to press the assigned Trigger Key, when you press that key the Hypetrigger logo will appear on the screen for about 2 seconds, this is to give Hypetrigger something to detect when there is no text to detect.
 2. Hypetrigger Companion will show as an icon in your task tray that looks similar to the Hypetrigger icon, you can right click this icon to configure the program.
 3. Record your gameplay as you normally would. When you want to create an event for Hypetrigger to detect, press the assigned Trigger Key.
