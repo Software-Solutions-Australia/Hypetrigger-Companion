@@ -5,6 +5,21 @@ Hypetrigger Companion will create a marker for Hypetrigger to detect when proces
 Hypetrigger Companion is designed for Windows 10 and has not been tested on any other versions of Windows.
 
 
+## FEATURE HIGHLIGHTS:
+
+* Add a marker to your game recordings for Hypetrigger to detect.
+
+* Assign any key to use as a trigger key using the task tray menu.
+
+* Change marker (OSD) position to meet your needs from the settings.
+
+* Installer includes a Hypetrigger config file and Tensorflow data.
+
+* Less than 100MB in size and uses only a small amount of memory.
+
+* Option to run at Windows startup (can be enabled in settings).
+
+
 ## DOWNLOAD INSTRUCTIONS:
 
 Download from releases on Github: https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/releases
