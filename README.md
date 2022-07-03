@@ -41,6 +41,8 @@ Download from releases on Github: https://github.com/Software-Solutions-Australi
 
 4. After importing your recorded video into Hypetrigger, you will see a "Hypetrigger Companion (tensorflow beta)" config in the config dropdown list, select it and press the "Find Clips" button. You can speed up the process by disabling the OSD position triggers you don't need.
 
+[![](https://i.postimg.cc/fLLwZksq/HTC-0-1-7-2.png)](https://postimg.cc/d7bMjsLG)
+
 5. To exit Hypetrigger Companion and return the assigned Trigger Key to its original functionality right-click the Hypetrigger Companion icon in the task tray and select "Exit Hypetrigger Companion".
 This will immediately exit Hypetrigger Companion and return the assigned Trigger Key to its original functionality.
 
