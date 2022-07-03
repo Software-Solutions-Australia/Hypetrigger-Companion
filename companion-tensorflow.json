@@ -1,0 +1,348 @@
+{
+  "id": "companion-tensorflow",
+  "title": "Hypetrigger Companion (tensorflow beta)",
+  "triggers": [
+    {
+      "title": "Top Left Trigger",
+      "id": "htc-tl",
+      "debug": false,
+      "enabled": true,
+      "runForever": false,
+      "secondsBefore": 8,
+      "secondsAfter": 2,
+      "cropFunction": {
+        "yAnchor": "top",
+        "xAnchor": "left",
+        "x": 0,
+        "y": 0,
+        "xUnit": "%",
+        "yUnit": "%",
+        "width": 3,
+        "height": 5,
+        "widthUnit": "%",
+        "heightUnit": "%"
+      },
+      "filters": [
+        {
+          "type": "threshold",
+          "title": "",
+          "r": 255,
+          "g": 255,
+          "b": 0,
+          "threshold": 42
+        }
+      ],
+      "ai": {
+        "type": "tensorflow",
+        "modelDir": "data\\tensorflow-models\\companion"
+      },
+      "parser": {
+        "type": "parser"
+      }
+    },
+    {
+      "title": "Top Center Trigger",
+      "id": "htc-tc",
+      "debug": false,
+      "enabled": false,
+      "runForever": false,
+      "secondsBefore": 8,
+      "secondsAfter": 2,
+      "cropFunction": {
+        "yAnchor": "top",
+        "xAnchor": "left",
+        "x": 48,
+        "y": 0,
+        "xUnit": "%",
+        "yUnit": "%",
+        "width": 3.5,
+        "height": 5,
+        "widthUnit": "%",
+        "heightUnit": "%"
+      },
+      "filters": [
+        {
+          "type": "threshold",
+          "title": "",
+          "r": 255,
+          "g": 255,
+          "b": 0,
+          "threshold": 42
+        }
+      ],
+      "ai": {
+        "type": "tensorflow",
+        "modelDir": "data\\tensorflow-models\\companion"
+      },
+      "parser": {
+        "type": "parser"
+      }
+    },
+    {
+      "title": "Top Right Trigger",
+      "id": "htc-tr",
+      "debug": false,
+      "enabled": false,
+      "runForever": false,
+      "secondsBefore": 8,
+      "secondsAfter": 2,
+      "cropFunction": {
+        "yAnchor": "top",
+        "xAnchor": "left",
+        "x": 97,
+        "y": 0,
+        "xUnit": "%",
+        "yUnit": "%",
+        "width": 3,
+        "height": 5,
+        "widthUnit": "%",
+        "heightUnit": "%"
+      },
+      "filters": [
+        {
+          "type": "threshold",
+          "title": "",
+          "r": 255,
+          "g": 255,
+          "b": 0,
+          "threshold": 42
+        }
+      ],
+      "ai": {
+        "type": "tensorflow",
+        "modelDir": "data\\tensorflow-models\\companion"
+      },
+      "parser": {
+        "type": "parser"
+      }
+    },
+    {
+      "title": "Left Center Trigger",
+      "id": "htc-lc",
+      "debug": false,
+      "enabled": false,
+      "runForever": false,
+      "secondsBefore": 8,
+      "secondsAfter": 2,
+      "cropFunction": {
+        "yAnchor": "top",
+        "xAnchor": "left",
+        "x": 0,
+        "y": 45,
+        "xUnit": "%",
+        "yUnit": "%",
+        "width": 3,
+        "height": 6,
+        "widthUnit": "%",
+        "heightUnit": "%"
+      },
+      "filters": [
+        {
+          "type": "threshold",
+          "title": "",
+          "r": 255,
+          "g": 255,
+          "b": 0,
+          "threshold": 42
+        }
+      ],
+      "ai": {
+        "type": "tensorflow",
+        "modelDir": "data\\tensorflow-models\\companion"
+      },
+      "parser": {
+        "type": "parser"
+      }
+    },
+    {
+      "title": "Center Trigger",
+      "id": "htc-c",
+      "debug": false,
+      "enabled": false,
+      "runForever": false,
+      "secondsBefore": 8,
+      "secondsAfter": 2,
+      "cropFunction": {
+        "yAnchor": "top",
+        "xAnchor": "left",
+        "x": 48,
+        "y": 45,
+        "xUnit": "%",
+        "yUnit": "%",
+        "width": 3.5,
+        "height": 6,
+        "widthUnit": "%",
+        "heightUnit": "%"
+      },
+      "filters": [
+        {
+          "type": "threshold",
+          "title": "",
+          "r": 255,
+          "g": 255,
+          "b": 0,
+          "threshold": 42
+        }
+      ],
+      "ai": {
+        "type": "tensorflow",
+        "modelDir": "data\\tensorflow-models\\companion"
+      },
+      "parser": {
+        "type": "parser"
+      }
+    },
+    {
+      "title": "Right Center Trigger",
+      "id": "htc-rc",
+      "debug": false,
+      "enabled": false,
+      "runForever": false,
+      "secondsBefore": 8,
+      "secondsAfter": 2,
+      "cropFunction": {
+        "yAnchor": "top",
+        "xAnchor": "left",
+        "x": 97,
+        "y": 45,
+        "xUnit": "%",
+        "yUnit": "%",
+        "width": 3,
+        "height": 6,
+        "widthUnit": "%",
+        "heightUnit": "%"
+      },
+      "filters": [
+        {
+          "type": "threshold",
+          "title": "",
+          "r": 255,
+          "g": 255,
+          "b": 0,
+          "threshold": 42
+        }
+      ],
+      "ai": {
+        "type": "tensorflow",
+        "modelDir": "data\\tensorflow-models\\companion"
+      },
+      "parser": {
+        "type": "parser"
+      }
+    },
+    {
+      "title": "Bottom Left Trigger",
+      "id": "htc-bl",
+      "debug": false,
+      "enabled": false,
+      "runForever": false,
+      "secondsBefore": 8,
+      "secondsAfter": 2,
+      "cropFunction": {
+        "yAnchor": "top",
+        "xAnchor": "left",
+        "x": 0,
+        "y": 92,
+        "xUnit": "%",
+        "yUnit": "%",
+        "width": 3,
+        "height": 6,
+        "widthUnit": "%",
+        "heightUnit": "%"
+      },
+      "filters": [
+        {
+          "type": "threshold",
+          "title": "",
+          "r": 255,
+          "g": 255,
+          "b": 0,
+          "threshold": 42
+        }
+      ],
+      "ai": {
+        "type": "tensorflow",
+        "modelDir": "data\\tensorflow-models\\companion"
+      },
+      "parser": {
+        "type": "parser"
+      }
+    },
+    {
+      "title": "Bottom Center Trigger",
+      "id": "htc-bc",
+      "debug": false,
+      "enabled": false,
+      "runForever": false,
+      "secondsBefore": 8,
+      "secondsAfter": 2,
+      "cropFunction": {
+        "yAnchor": "top",
+        "xAnchor": "left",
+        "x": 48,
+        "y": 92,
+        "xUnit": "%",
+        "yUnit": "%",
+        "width": 3.5,
+        "height": 6,
+        "widthUnit": "%",
+        "heightUnit": "%"
+      },
+      "filters": [
+        {
+          "type": "threshold",
+          "title": "",
+          "r": 255,
+          "g": 255,
+          "b": 0,
+          "threshold": 42
+        }
+      ],
+      "ai": {
+        "type": "tensorflow",
+        "modelDir": "data\\tensorflow-models\\companion"
+      },
+      "parser": {
+        "type": "parser"
+      }
+    },
+    {
+      "title": "Bottom Right Trigger",
+      "id": "htc-br",
+      "debug": false,
+      "enabled": false,
+      "runForever": false,
+      "secondsBefore": 8,
+      "secondsAfter": 2,
+      "cropFunction": {
+        "yAnchor": "top",
+        "xAnchor": "left",
+        "x": 97,
+        "y": 92,
+        "xUnit": "%",
+        "yUnit": "%",
+        "width": 3,
+        "height": 6,
+        "widthUnit": "%",
+        "heightUnit": "%"
+      },
+      "filters": [
+        {
+          "type": "threshold",
+          "title": "",
+          "r": 255,
+          "g": 255,
+          "b": 0,
+          "threshold": 42
+        }
+      ],
+      "ai": {
+        "type": "tensorflow",
+        "modelDir": "data\\tensorflow-models\\companion"
+      },
+      "parser": {
+        "type": "parser"
+      }
+    }
+  ]
+}
