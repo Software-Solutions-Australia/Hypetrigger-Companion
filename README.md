@@ -6,6 +6,7 @@
 
 [![](https://i.postimg.cc/JnLxJWy8/HTC.png)](https://postimg.cc/mcm7fJNp)
 
+***
 
 ## FEATURE HIGHLIGHTS:
 
@@ -21,11 +22,13 @@
 
 * Option to run at Windows startup (can be enabled in settings).
 
+***
 
 ## [DOWNLOAD INSTRUCTIONS:](https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/releases)
 
 ### Download from releases on Github: https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/releases
 
+***
 
 ## [USAGE INSTRUCTIONS:](https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/wiki)
 
@@ -49,6 +52,7 @@
 
 ### Check out the Hypetrigger Companion Wiki for a complete guide: https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/wiki
 
+***
 
 ## LICENSE AGREEMENT:
 
