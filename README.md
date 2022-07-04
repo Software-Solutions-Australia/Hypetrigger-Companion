@@ -45,8 +45,9 @@ Download from releases on Github: https://github.com/Software-Solutions-Australi
 
 [![](https://i.postimg.cc/fLLwZksq/HTC-0-1-7-2.png)](https://postimg.cc/d7bMjsLG)
 
-5. To exit Hypetrigger Companion and return the assigned Trigger Key to its original functionality right-click the Hypetrigger Companion icon in the task tray and select "Exit Hypetrigger Companion".
-This will immediately exit Hypetrigger Companion and return the assigned Trigger Key to its original functionality.
+5. To exit Hypetrigger Companion and return the assigned Trigger Key to its original functionality right-click the Hypetrigger Companion icon in the task tray and select "Exit Hypetrigger Companion". This will immediately exit Hypetrigger Companion and return the assigned Trigger Key to its original functionality.
+
+Check out the Hypetrigger Companion Wiki for a complete guide: https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/wiki
 
 
 ## LICENSE AGREEMENT:
