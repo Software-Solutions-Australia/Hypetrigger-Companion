@@ -24,7 +24,7 @@ Hypetrigger Companion is designed for Windows 10 and has not been tested on any 
 
 ## DOWNLOAD INSTRUCTIONS:
 
-Download from releases on Github: https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/releases
+### Download from releases on Github: https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/releases
 
 
 ## USAGE INSTRUCTIONS:
@@ -47,7 +47,7 @@ Download from releases on Github: https://github.com/Software-Solutions-Australi
 
 5. To exit Hypetrigger Companion and return the assigned Trigger Key to its original functionality right-click the Hypetrigger Companion icon in the task tray and select "Exit Hypetrigger Companion". This will immediately exit Hypetrigger Companion and return the assigned Trigger Key to its original functionality.
 
-Check out the Hypetrigger Companion Wiki for a complete guide: https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/wiki
+### Check out the Hypetrigger Companion Wiki for a complete guide: https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/wiki
 
 
 ## LICENSE AGREEMENT:
