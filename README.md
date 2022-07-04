@@ -27,7 +27,7 @@
 ### Download from releases on Github: https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/releases
 
 
-## USAGE INSTRUCTIONS:
+## [USAGE INSTRUCTIONS:](https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/wiki)
 
 1. Hypetrigger Companion will wait for you to press the assigned Trigger Key, when you press that key the Hypetrigger logo will appear on the screen for about 2 seconds, this is to give Hypetrigger something to detect when there is no text to detect.
 
