@@ -1,4 +1,4 @@
-# Hypetrigger Companion v0.1.7 by Software Solutions Australia (Disguise_AU)
+# Hypetrigger Companion v0.1.7 by Software Solutions Australia
 
 ### Hypetrigger Companion will create a marker for Hypetrigger to detect when processing, this is useful for games that do not provide any text for Hypetrigger to detect.
 
@@ -56,7 +56,7 @@
 
 ## LICENSE AGREEMENT:
 
-Copyright 2022 Software Solutions Australia
+Copyright 2022 Software Solutions Australia (Rowan Truman)
 
 This software is provided 'as-is', without any express or implied warranty. In no event will the author be held liable for any damages arising from the use of this software.
 
