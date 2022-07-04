@@ -1,8 +1,8 @@
 # Hypetrigger Companion v0.1.7 by Software Solutions Australia (Disguise_AU)
 
-Hypetrigger Companion will create a marker for Hypetrigger to detect when processing, this is useful for games that do not provide any text for Hypetrigger to detect.
+### Hypetrigger Companion will create a marker for Hypetrigger to detect when processing, this is useful for games that do not provide any text for Hypetrigger to detect.
 
-Hypetrigger Companion is designed for Windows 10 and has not been tested on any other versions of Windows.
+### Hypetrigger Companion is designed for Windows 10 and has not been tested on any other versions of Windows.
 
 [![](https://i.postimg.cc/JnLxJWy8/HTC.png)](https://postimg.cc/mcm7fJNp)
 
