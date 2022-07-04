@@ -22,7 +22,7 @@
 * Option to run at Windows startup (can be enabled in settings).
 
 
-## DOWNLOAD INSTRUCTIONS:
+## [DOWNLOAD INSTRUCTIONS:](https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/releases)
 
 ### Download from releases on Github: https://github.com/Software-Solutions-Australia/Hypetrigger-Companion/releases
 
