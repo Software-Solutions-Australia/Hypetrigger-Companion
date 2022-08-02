@@ -4,7 +4,7 @@
 
 ### Hypetrigger Companion is designed for Windows 10 and has not been tested on any other versions of Windows.
 
-[![](https://i.postimg.cc/JnLxJWy8/HTC.png)](https://postimg.cc/mcm7fJNp)
+[![](https://i.postimg.cc/PqgqbR4p/HTC-0-1-8-1.png)](https://postimg.cc/hJ0gcMNc)
 
 ***
 
