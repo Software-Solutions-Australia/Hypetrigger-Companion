@@ -1,3 +1,6 @@
+v0.1.9; Updater
+Added updater that automatically checks for new versions of Hypetrigger Companion.
+
 v0.1.8; Minor UI update
 Added "View Wiki on GitHub" button to the main UI.
 Added "View Hypetrigger Companion Releases on GitHub" to the "Help" submenu.
